@@ -35,6 +35,6 @@ Provide a brief analysis based on the data presented in the table and chart. Hig
 
 ## Attribution
 
-This section was completed by [WRITE YOUR NAME HERE!]
+This section was completed by KENE DAVID NWOSU
 
-The link to the group's GitHub repository is [WRITE THE LINK HERE!]
+The link to the group's GitHub repository is https://github.com/kendavidn/rmc_week_02_workshop_kdb
